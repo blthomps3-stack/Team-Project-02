@@ -10,6 +10,8 @@ main {
     padding: 60px 0;
 }
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 .flex {
     display: flex;
 }
@@ -34,3 +36,37 @@ nav ul {
         font-style: none;
     }
 }
+=======
+>>>>>>> 86ce870 (second paragraph added)
+=======
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    width: 80%;
+    max-width: 800px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+h2 {
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+p {
+    margin-bottom: 15px;
+    line-height: 1.6;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.item-1 {
+    background-color: #ffeaa7;
+    color: #2d3436;
+}
+
+.item-2 {
+    background-color: #81ecec;
+    color: #2d3436;
+}
+>>>>>>> e04cd3a (CSS properties added)
