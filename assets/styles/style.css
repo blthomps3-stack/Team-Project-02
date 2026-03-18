@@ -36,6 +36,8 @@ nav ul {
         font-style: none;
     }
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 86ce870 (second paragraph added)
 =======
@@ -70,3 +72,38 @@ p {
     color: #2d3436;
 }
 >>>>>>> e04cd3a (CSS properties added)
+=======
+=======
+
+.heading {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+     margin-top: 40px;
+}
+
+
+>>>>>>> 9d98e66 (updated css and html file)
+.footer-links a {
+      color: rgb(173, 182, 230);
+      margin:  10px;
+      text-decoration: none;
+}
+
+footer {
+      background-color: #222;
+      color: white;
+      padding: 20px;
+      text-align: center;
+}
+<<<<<<< HEAD
+>>>>>>> a61d148 (add header in css)
+=======
+
+.social a {
+      margin: 0 5px;
+      color: white;
+      text-decoration: none;
+}
+>>>>>>> 1028fc3 (edit the social link)
