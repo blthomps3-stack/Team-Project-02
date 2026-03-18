@@ -10,6 +10,7 @@ main {
     padding: 60px 0;
 }
 
+<<<<<<< HEAD
 .flex {
     display: flex;
 }
@@ -34,3 +35,5 @@ nav ul {
         font-style: none;
     }
 }
+=======
+>>>>>>> 86ce870 (second paragraph added)
