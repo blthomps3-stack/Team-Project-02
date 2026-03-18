@@ -10,8 +10,6 @@ main {
     padding: 60px 0;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .flex {
     display: flex;
 }
@@ -36,12 +34,7 @@ nav ul {
         font-style: none;
     }
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 86ce870 (second paragraph added)
-=======
-.container {
+.container-1 {
     background-color: #ffffff;
     padding: 30px;
     width: 80%;
@@ -71,9 +64,6 @@ p {
     background-color: #81ecec;
     color: #2d3436;
 }
->>>>>>> e04cd3a (CSS properties added)
-=======
-=======
 
 .heading {
     text-align: center;
@@ -83,8 +73,6 @@ p {
      margin-top: 40px;
 }
 
-
->>>>>>> 9d98e66 (updated css and html file)
 .footer-links a {
       color: rgb(173, 182, 230);
       margin:  10px;
@@ -97,13 +85,8 @@ footer {
       padding: 20px;
       text-align: center;
 }
-<<<<<<< HEAD
->>>>>>> a61d148 (add header in css)
-=======
-
 .social a {
       margin: 0 5px;
       color: white;
       text-decoration: none;
 }
->>>>>>> 1028fc3 (edit the social link)
