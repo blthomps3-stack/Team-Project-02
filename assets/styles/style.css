@@ -9,3 +9,28 @@
 main {
     padding: 60px 0;
 }
+
+.flex {
+    display: flex;
+}
+
+header {
+    background-color: darkslategray;
+    color: white;
+    justify-content: space-between;
+    width: auto;
+    height: 80px;
+    line-height: 80px;
+}
+
+.title {
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    gap: 20px;
+    li a {
+        font-style: none;
+    }
+}
