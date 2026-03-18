@@ -37,6 +37,7 @@ nav ul {
     }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 86ce870 (second paragraph added)
 =======
@@ -72,6 +73,18 @@ p {
 }
 >>>>>>> e04cd3a (CSS properties added)
 =======
+=======
+
+.heading {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: #333;
+     margin-top: 40px;
+}
+
+
+>>>>>>> 9d98e66 (updated css and html file)
 .footer-links a {
       color: rgb(173, 182, 230);
       margin:  10px;
