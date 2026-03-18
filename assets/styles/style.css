@@ -84,4 +84,13 @@ footer {
       padding: 20px;
       text-align: center;
 }
+<<<<<<< HEAD
 >>>>>>> a61d148 (add header in css)
+=======
+
+.social a {
+      margin: 0 5px;
+      color: white;
+      text-decoration: none;
+}
+>>>>>>> 1028fc3 (edit the social link)
