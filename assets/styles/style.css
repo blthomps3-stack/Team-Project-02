@@ -34,3 +34,15 @@ nav ul {
         font-style: none;
     }
 }
+.footer-links a {
+      color: rgb(173, 182, 230);
+      margin:  10px;
+      text-decoration: none;
+}
+
+footer {
+      background-color: #222;
+      color: white;
+      padding: 20px;
+      text-align: center;
+}
